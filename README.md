@@ -34,6 +34,8 @@ I am a Senior Developer at <strong>[Alturos Destinations](https://www.alturos.co
 
 ## Recent activity :zap:
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#2](https://github.com/TashaNaschenweng/TashaNaschenweng/pull/2) in [TashaNaschenweng/TashaNaschenweng](https://github.com/TashaNaschenweng/TashaNaschenweng)
+2. 🎉 Merged PR [#1](https://github.com/TashaNaschenweng/TashaNaschenweng/pull/1) in [TashaNaschenweng/TashaNaschenweng](https://github.com/TashaNaschenweng/TashaNaschenweng)
 <!--END_SECTION:activity-->
  
 <br /><br /> 
