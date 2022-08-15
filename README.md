@@ -1,5 +1,5 @@
 <div align="left">
-  <a href="https://www.linkedin.com/in/tashanaschenweng/">
+  <a href="https://www.linkedin.com/in/tashanaschenweng">
     <img src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86" alt="LinkedIn"/>
 
   <a href="https://app.daily.dev/tashanaschenweng" target="_blank">
